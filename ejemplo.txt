@@ -1,2 +1,14 @@
-hola hola hola hola que tal 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+jamon hola hola hola hola que tal 
+=======
+asdasdashola hola hola hola que tal 
+>>>>>>> Stashed changes
+=======
+asdasdashola hola hola hola que tal 
+>>>>>>> Stashed changes
+=======
+asdasdashola hola hola hola que tal 
+>>>>>>> Stashed changes
 asda
